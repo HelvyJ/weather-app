@@ -1,4 +1,10 @@
-h1 {
-  text-align: center;
-  color: blue;
+body {
+  background-color: #e478c3;
+}
+.weather-app {
+  background-color: white;
+  max-width: 600px;
+  margin: 45px auto;
+  border-radius: 16px;
+  padding: 30px;
 }
